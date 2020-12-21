@@ -31,6 +31,4 @@ The formula for a Polynomial linear regression is:
 
 
 
-<p align="center">
-    <img src="./images/Polynomial linear regression.jpg" width="500" height="500" style="float:center"> 
-</p>
+ 
