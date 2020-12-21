@@ -27,8 +27,9 @@ Life expectancy is the key metric for assessing population health
 Polynomial regression model use to powers of a single predictor by the method of linear least squares. Interpolation and calculation of areas under the curve are also given.
 
 The formula for a Polynomial linear regression is:
+<p align="center">
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/441d157d1b9e322b3cf27b721a370be6844d30c8" alt="Multiple linear regression formula" width="215" height="59"  sizes="(max-width: 215px) 100vw, 215px" >
-
+</p>
 
 
  
