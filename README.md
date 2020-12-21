@@ -4,7 +4,7 @@
     <img src="./images/life.gif" width="500" height="500" style="float:center"> 
 </p>
 
-[Code Source Github](https://github.com/GitSanty/Model-Linear-Progression) 
+[Code Source Github](https://github.com/GitSanty/Regression) 
 
 # The Mission
 
