@@ -1,4 +1,4 @@
-# Project : Regression
+# Project : Predict the life expectancy - Regression
 
 <p align="left">
     <img src="./images/life.gif" width="500" height="500" style="float:center"> 
